@@ -10,6 +10,10 @@ Aula 3: Explorando os parâmetros do Google AI Studio
 
 Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab - "Chegou a hora de conectar o Gemini API ao Python com o Google Colab"
 
+Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+
+********
+
 Olá,
 
 Meu nome é Igor
@@ -19,8 +23,6 @@ Primeiramente gostaria de agradecer a Alura por esta oportunidade em participar 
 E todos devem estar curiosos para saber:
 
 Como foi feito o Positividade?
-
-Seguindo as aulas 01 a 04 ...
 
 - Pesquisa usando o Gemini
 
