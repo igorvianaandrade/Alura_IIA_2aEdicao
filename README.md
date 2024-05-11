@@ -14,7 +14,7 @@ Olá,
 
 Meu nome é Igor
 
-Primeiramente gostaria de agradecer a Alura por esta oportunidade em participar do ambiente positivo de imerção!
+Primeiramente gostaria de agradecer a Alura por esta oportunidade em participar do ambiente de imerção!
 
 E todos devem estar curiosos para saber:
 
