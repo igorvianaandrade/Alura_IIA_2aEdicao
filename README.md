@@ -8,7 +8,7 @@ Aula 2: Melhores técnicas em Engenharia de Prompt
 
 Aula 3: Explorando os parâmetros do Google AI Studio
 
-Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab - "Chegou a hora de conectar o Gemini API ao Python com o Google Colab"
+Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
 
 Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 
