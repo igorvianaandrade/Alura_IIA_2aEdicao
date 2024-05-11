@@ -92,5 +92,3 @@ Loop principal do chatbot:
   
 Mensagem de despedida:
   Exibe uma mensagem de despedida para o usuário.
-
-Link da pesquisa: https://gemini.google.com/app/5bdbc7b835c7f6fd
